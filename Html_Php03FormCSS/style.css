@@ -1,0 +1,11 @@
+:root {
+  color-scheme: light dark;
+}
+body {
+  display: grid;
+  place-content: center;
+}
+.error {
+  font-weight: bold;
+  color: #c00;
+}
